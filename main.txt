@@ -2,5 +2,4 @@ You are standing at a crossroads. To the north, you see a dark forest. To the ea
 
 What do you do? (north/east)
 
-new content 
-here
+new content deleted
